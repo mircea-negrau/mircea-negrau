@@ -93,8 +93,8 @@ const mircea = {
 
 <h2 align="left">Statistics:</h2>
 <img align="left" src="https://metrics.lecoq.io/mircea-negrau" alt="mircea-negrau" width="375" height="289"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mircea-negrau&show_icons=true" width="463" height="175"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mircea-negrau" width="463" height="175"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mircea-negrau&show_icons=true" width="393" height="148"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mircea-negrau" width="393" height="148"/>
     
     
     
