@@ -33,6 +33,16 @@ const mircea = {
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40"/>
     </a>
+    <a href="https://flutter.dev" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
+            height="40"/>
+    </a>
     <a href="https://www.qt.io/" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
     </a>
@@ -44,16 +54,6 @@ const mircea = {
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
             alt="dotnet" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-            height="40"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
