@@ -15,7 +15,7 @@ var mircea = {
                   "learning": ReactJS,
                   "improving": Flutter,
                   "developing": "github.com/mircea-negrau/Pet-Adoption"
-  },
+                  },
 }
 ```
 
