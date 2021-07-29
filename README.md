@@ -5,7 +5,7 @@
 </p>
 
 ```javascript
-const mircea = {
+var mircea = {
              age: 20,
         position: "2nd year Computer Science student",
        languages: [Python, C, C++, C#, Dart, Html, Css, Javascript, Sql],
