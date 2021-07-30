@@ -93,8 +93,8 @@ var mircea = {
 
 <h2 align="left">Statistics:</h2>
 <img align="left" src="https://metrics.lecoq.io/mircea-negrau" alt="mircea-negrau" width="375" height="289"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mircea-negrau&show_icons=true" width="393" height="148"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mircea-negrau" width="393" height="148"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mircea-negrau&show_icons=true&theme=gruvbox&hide_border=true&bg_color=151515&icon_color=f18c00&title_color=f18c00&text_color=fdfdfd&count_private=true" width="393" height="148"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=mircea-negrau&theme=dark&hide_border=true&count_private=true" width="393" height="148"/>
     
     
     
