@@ -3,7 +3,7 @@
 <i>Computer Science student at <a href="https://www.ubbcluj.ro/en/facultati/matematica_informatica">University of Cluj-Napoca</a></i>.<a href="https://linkedin.com/in/mircea-negrau" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mircea-negrau" height="30" width="40" /></a>  
 <a href="https://fb.com/mircea.ngr/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mircea.ngr" height="30" width="40" /></a>
 </p>
-
+ 
 ```javascript
 var mircea = {
              age: 20,
