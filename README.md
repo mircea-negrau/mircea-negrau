@@ -10,7 +10,7 @@ var mircea = {
         position: "2nd year Computer Science student",
        languages: [Python, C, C++, C#, Dart, Html, Css, Javascript, Sql],
            tools: [Flutter, Firebase, Google Cloud, MSSql, SQLite, MySql, .Net, Bootstrap, Django, React],
-  lookingForWork: true,
+          status: "Working",
           status: {
                   "learning": ReactJS,
                   "improving": Flutter,
