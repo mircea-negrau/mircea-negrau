@@ -8,8 +8,8 @@
 var mircea = {
              age: 20,
         position: "2nd year Computer Science student",
-       languages: [Python, C, C++, C#, Dart, Html, Css, Javascript, Sql],
-           tools: [Flutter, Firebase, Google Cloud, MSSql, SQLite, MySql, .Net, Bootstrap, Django, React],
+       languages: [Python, C, C++, C#, Dart, Html, Css, Typescript, Javascript, Sql],
+           tools: [React, Flutter, Firebase, Google Cloud, MSSql, SQLite, MySql, .Net, Bootstrap, Django],
           status: "Working",
           status: {
                   "learning": ReactJS,
