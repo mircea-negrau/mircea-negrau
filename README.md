@@ -6,7 +6,7 @@
  
 ```javascript
 var mircea = {
-        birthday: "17th February",
+        birthday: "17th of February",
         position: "2nd year Computer Science student",
        languages: [Python, Typescript, Javascript, C/C++, Dart, Html, Css, C#, Java],
            tools: [React, NodeJS, Azure Functions, Flutter, Firebase, Google Cloud, Qt, Bootstrap, Sql],
