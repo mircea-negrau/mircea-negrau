@@ -9,7 +9,7 @@ var mircea = {
              age: 20,
         position: "2nd year Computer Science student",
        languages: [Python, Typescript, Javascript, C/C++, Dart, Html, Css, C#, Java],
-           tools: [React, NodeJS, Flutter, Firebase, Google Cloud, Azure, Qt, Bootstrap, SQL],
+           tools: [React, NodeJS, Azure Functions, Flutter, Firebase, Google Cloud, Qt, Bootstrap, SQL],
           status: "Employed",
           status: {
                   "learning": Java,
@@ -78,8 +78,8 @@ var mircea = {
             src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
             height="40"/>
     </a>
-    <a href="https://azure.microsoft.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
+    <a href="https://docs.microsoft.com/en-us/azure/azure-functions/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg" alt="gcp" width="40"
             height="40"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank">
