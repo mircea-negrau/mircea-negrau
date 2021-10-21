@@ -79,7 +79,7 @@ var mircea = {
             height="40"/>
     </a>
     <a href="https://docs.microsoft.com/en-us/azure/azure-functions/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg" alt="gcp" width="40"
+            src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-icon.svg" alt="gcp" width="40"
             height="40"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank">
