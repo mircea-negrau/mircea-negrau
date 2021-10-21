@@ -4,7 +4,7 @@
 <a href="https://fb.com/mircea.ngr/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mircea.ngr" height="30" width="40" /></a>
 </p>
  
-```typescript
+```javascript
 var mircea = {
         birthday: "17th February",
         position: "2nd year Computer Science student",
