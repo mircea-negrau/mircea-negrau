@@ -8,8 +8,8 @@
 var mircea = {
         birthday: "17th of February",
         position: "2nd year Computer Science student",
-       languages: [Python, Typescript, Javascript, C/C++, Dart, Html, Css, C#, Java],
-           tools: [React, NodeJS, Azure Functions, Flutter, Firebase, Google Cloud, Qt, Bootstrap, Sql],
+       languages: [C#, Typescript, Python, C/C++, Java, Dart, Html, Css],
+           tools: [DotNet, React, NodeJS, Azure Functions, Flutter, Firebase, Google Cloud, Sql],
           status: "Employed",
           status: {
                   "learning": Java,
@@ -21,6 +21,10 @@ var mircea = {
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+            alt="python" width="40" height="40"/>
+    </a>
     <a href="https://www.python.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40"/>
@@ -82,12 +86,11 @@ var mircea = {
             src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-icon.svg" alt="gcp" width="40"
             height="40"/>
     </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-             alt="bootstrap" width="40" height="40"/>
-    </a>
     <a href="https://www.sqlite.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlite" width="40" height="40"/>
     </a>
 </p>
 
