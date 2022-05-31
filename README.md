@@ -5,18 +5,18 @@
 </p>
  
 ```javascript
-var mircea = {
+const mircea = {
         birthday: "17th of February",
         position: "2nd year Computer Science student",
        languages: [C#, Typescript, Python, C/C++, Java, Dart, Html, Css],
-           tools: [DotNet, React, NodeJS, Azure Functions, Flutter, Firebase, Google Cloud, Sql],
-          status: "Employed",
+           tools: [.Net, React, NodeJS, Azure Functions, Flutter, Firebase, Google Cloud, Sql],
+          status: "Unemployed",
           status: {
-                  "learning": Java,
-                  "improving": Flutter,
-                  "hobby": "github.com/mircea-negrau/Pet-Adoption"
+                  "improving": [.Net Core, React],
+                  "hobby": "github.com/mircea-negrau/MarkEm"
                   },
-             }
+             };
+const lastUpdated = "31-May-22";
 ```
 
 <h2 align="left">Languages and Tools:</h2>
