@@ -12,11 +12,12 @@ const mircea = {
            tools: [.Net, React, NodeJS, Azure Functions, Flutter, Firebase, Google Cloud, Sql],
           status: "Unemployed",
           status: {
-                  "improving": [.Net Core, React],
-                  "hobby": "github.com/mircea-negrau/MarkEm"
-                  },
+                     "improving": [.Net Core, React],
+                     "hobby": "github.com/mircea-negrau/MarkEm"
+                  }
              };
-const lastUpdated = "31-May-22";
+             
+const lastUpdated = new Date(1654007318000);
 ```
 
 <h2 align="left">Languages and Tools:</h2>
