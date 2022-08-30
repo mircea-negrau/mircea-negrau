@@ -7,17 +7,17 @@
 ```javascript
 const mircea = {
         birthday: "17th of February",
-        position: "2nd year Computer Science student",
+        academic: "3rd year Computer Science B. Sc.",
        languages: [C#, Typescript, Python, C/C++, Java, Dart, Html, Css],
            tools: [.Net, React, NodeJS, Azure Functions, Flutter, Firebase, Google Cloud, Sql],
-          status: "Unemployed",
+          status: "Employed",
           status: {
                      "improving": [.Net Core, React],
                      "hobby": "github.com/mircea-negrau/MarkEm"
                   }
              };
              
-const lastUpdated = new Date(1654007318000);
+const lastUpdated = new Date(1661860265000);
 ```
 
 <h2 align="left">Languages and Tools:</h2>
