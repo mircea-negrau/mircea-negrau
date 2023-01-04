@@ -7,7 +7,7 @@
 ```javascript
 const mircea = {
         birthday: "17th of February",
-        academic: "3rd year Computer Science B. Sc.",
+        academic: "Final year Computer Science B. Sc.",
        languages: [C#, Typescript, Python, C/C++, Java, Dart, Html, Css],
            tools: [.Net, React, NodeJS, Azure Functions, Flutter, Firebase, Google Cloud, Sql],
           status: "Employed",
@@ -17,7 +17,7 @@ const mircea = {
                   }
              };
              
-const lastUpdated = new Date(1661860265000);
+const lastUpdated = new Date(1672862548000);
 ```
 
 <h2 align="left">Languages and Tools:</h2>
