@@ -13,7 +13,7 @@ const mircea = {
           status: "Employed",
           status: {
                      "improving": [.Net Core, React],
-                     "hobby": "github.com/mircea-negrau/MarkEm"
+                     "activity": "B.Sc. Thesis"
                   }
              };
              
