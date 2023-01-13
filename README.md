@@ -5,6 +5,10 @@
 </p>
  
 ```javascript
+// Note: Currently working on B. Sc. thesis in my free time.
+//       Been working full-time since 2nd year of university.
+//       Hence, most of my commits / PRs are done in private repositories.
+
 const mircea = {
         birthday: "17th of February",
         academic: "Final year Computer Science B. Sc.",
